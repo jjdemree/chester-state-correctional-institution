@@ -1,0 +1,35 @@
+Bibliography
+Census of State and Federal Adult Correctional Facilities Series
+
+This bibliography includes published and unpublished works that are
+related to ICPSR series 67. It includes works that are based on
+primary or secondary analysis of the data, or which describe or critique
+those data or the collection methodology. This list represents all items
+known to ICPSR as of 2007-12-07.
+
+If you publish a work or know of other works that are based on these data,
+please send the complete citation and name of the ICPSR series used to:
+bibliography@icpsr.umich.edu.
+
+
+1. Geter, Leon T., "Re-entry statistics now available on BJS web site."
+Corrections Today. Aug 2003, 65, (5), 66 - 67.
+
+2. Kubrin, Charis E.; Stewart, Eric A., "Predicting Who Reoffends: The
+Neglected Role of Neighborhood Context in Recidivism Studies." Criminology.
+Feb 2006, 44, (1), 165 - 197.
+
+3. Petersilia, Joan, "Parole and prisoner reentry in the United States." In
+Tonry, Michael; Petersilia, Joan, Prisons. Crime and Justice: A Review of
+Research. 479 - 529, Chicago, IL: University of Chicago Press,1999.
+
+4. Petersilia, Joan, "Probation in the United States." In Tonry, Michael,
+Crime and Justice: A Review of Research. 149 - 200, Chicago, IL: University
+of Chicago Press,1997.
+
+5. Reuter, Peter, "Why can't we make prohibition work better?  Some
+consequences of ignorning the unattractive." In Perspectives on Crime and
+Justice Lecture Series,. 23 - 45, Washington, DC: United States Department
+of Justice, National Institute of Justice,1997. NCJ 166609
+Full text: http://www.ncjrs.gov/txtfiles/166609.txt
+Full text PDF: http://www.ncjrs.gov/pdffiles/166609.pdf

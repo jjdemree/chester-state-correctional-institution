@@ -1,0 +1,114 @@
+Bibliography
+Census of State and Federal Adult Correctional Facilities, 2005
+
+This bibliography includes published and unpublished works that are related 
+to ICPSR study 24642. It includes works that are based on primary
+or secondary analysis of the data, or which describe or critique those
+data or the collection methodology. This list represents all items known
+to ICPSR as of 2016-07-08.
+
+If you publish a work or know of other works that are based on these data,
+please send the complete citation and name of the ICPSR study used to:
+bibliography@icpsr.umich.edu.
+
+
+1. Burkhardt, Brett C., "Private Prisons in Public Discourse: Measuring
+Moral Legitimacy." Politics, Culture and Society Working Papers Series.
+2012-01, Corvallis, OR: Oregon State University, Jun 2012.
+Full text PDF: http://www.ssc.wisc.edu/soc/pcs/Working%20Papers/201201Burkhardt.pdf
+
+2. Burkhardt, Brett C., "Who punishes whom?: Bifurcation of private and
+public responsibilities in criminal punishment." Journal of Crime and
+Justice. in press 2016,. DOI: 10.1080/0735648X.2016.1174619
+Full text PDF: http://www.ssc.wisc.edu/soc/pcs/Working%20Papers/201201Burkhardt.pdf
+
+3. Burkhardt, Brett C.; Jones, Alisha, "Judicial intervention into prisons:
+Comparing private and public prisons from 1990 to 2005." Justice System
+Journal. in press 2015,. DOI: 10.1080/0098261X.2015.1062738
+Full text PDF: http://www.ssc.wisc.edu/soc/pcs/Working%20Papers/201201Burkhardt.pdf
+
+4. Genter, Shaun; Hooks, Gregory; Clayton, Mosher, "Prisons, jobs and
+privatization: The impact of prisons on employment growth in rural US
+counties, 1997-2004." Social Science Research. May 2013, 42, (3), 596 -
+610. DOI: 10.1016/j.ssresearch.2012.12.008
+Full text PDF: http://www.ssc.wisc.edu/soc/pcs/Working%20Papers/201201Burkhardt.pdf
+
+5. Jones, Alisha, "Education Behind Bars: Comparing Private and State
+Correctional Facilities." Thesis, Oregon State University, 2015.
+Full text PDF: http://www.ssc.wisc.edu/soc/pcs/Working%20Papers/201201Burkhardt.pdf
+
+6. Mason, Alissa L., "How Female Correctional Officers Influence the
+Security of an Institution." Thesis, Youngstown State University, 2015.
+Full text PDF: http://www.ssc.wisc.edu/soc/pcs/Working%20Papers/201201Burkhardt.pdf
+
+7. Neumann, Marie L., "Evaluating the Sex Ratio Hypothesis: County-level
+Sex Ratios and Nonmarital Fertility for African Americans." Thesis,
+University of Washington, 2016.
+Full text PDF: http://www.ssc.wisc.edu/soc/pcs/Working%20Papers/201201Burkhardt.pdf
+
+8. Peterson, Bryce E., "Inmate-, Incident-, and Facility-Level Factors
+Associated with Escapes from Custody and Violent Outcomes." Dissertation,
+City University of New York, 2015.
+Full text PDF: http://www.ssc.wisc.edu/soc/pcs/Working%20Papers/201201Burkhardt.pdf
+
+9. Phelps, Michelle S., "The place of punishment: Variation in the
+provision of inmate services staff across the punitive turn." Journal of
+Criminal Justice. Sep/Oct 2012, 40, (5), 348 - 357. DOI:
+10.1016/j.jcrimjus.2012.06.012
+Full text PDF: http://www.ssc.wisc.edu/soc/pcs/Working%20Papers/201201Burkhardt.pdf
+
+10. Phelps, Michelle S. , "Rehabilitation in the punitive era: The gap
+between rhetoric and reality in U.S. prison programs." Law and Society
+Review. 2011, 45, (1), 33 - 68. DOI: 10.1111/j.1540-5893.2011.00427.x
+Full text PDF: http://www.ssc.wisc.edu/soc/pcs/Working%20Papers/201201Burkhardt.pdf
+
+11. Schlanger, Margo, "How prisoners' rights lawyers are preserving the
+role of the courts." University of Miami Law Review. in press 2015,.
+Full text PDF: http://www.ssc.wisc.edu/soc/pcs/Working%20Papers/201201Burkhardt.pdf
+
+12. Schlanger, Margo, "Trends in prisoner litigation, as the PLRA enters
+adulthood." UC Irvine Law Review. in press 2015,.
+Full text PDF: http://www.ssc.wisc.edu/soc/pcs/Working%20Papers/201201Burkhardt.pdf
+
+13. Stephan, James J., "Census of State and Federal Correctional
+Facilities, 2005." National Prisoner Statistics Program. NCJ 222182,
+Washington, DC: United States Department of Justice, Bureau of Justice
+Statistics, Oct 2008.
+Full text PDF: http://bjs.ojp.usdoj.gov/content/pub/pdf/csfcf05.pdf
+The report includes data on characteristics of facilities by type, size,
+security level, rated and design capacities, court orders, and use of
+private contractors. It provides data on custody populations by type of
+facility, gender, and facility security level. The report includes data on
+facility staff by gender, occupational categories, and inmate-to-staff
+ratios by type of facility. Program data include work activities of inmates
+inside prison and on work release; educational training such as basic
+literacy and college courses; and counseling programs such as drug and
+alcohol dependency and employment interviewing skills. It also compares
+selected findings to the 2000 Census.
+
+14. Theis, Bryan N., "Public vs. Private Prison Violence: An Empirical
+Study of Inmate-on-staff Assaults." Thesis, Oregon State University, 2015.
+Full text PDF: http://bjs.ojp.usdoj.gov/content/pub/pdf/csfcf05.pdf
+The report includes data on characteristics of facilities by type, size,
+security level, rated and design capacities, court orders, and use of
+private contractors. It provides data on custody populations by type of
+facility, gender, and facility security level. The report includes data on
+facility staff by gender, occupational categories, and inmate-to-staff
+ratios by type of facility. Program data include work activities of inmates
+inside prison and on work release; educational training such as basic
+literacy and college courses; and counseling programs such as drug and
+alcohol dependency and employment interviewing skills. It also compares
+selected findings to the 2000 Census.
+
+15. Unah, Isaac, "Antecedents of Prison Violence." Nov 2013.
+Full text PDF: http://bjs.ojp.usdoj.gov/content/pub/pdf/csfcf05.pdf
+The report includes data on characteristics of facilities by type, size,
+security level, rated and design capacities, court orders, and use of
+private contractors. It provides data on custody populations by type of
+facility, gender, and facility security level. The report includes data on
+facility staff by gender, occupational categories, and inmate-to-staff
+ratios by type of facility. Program data include work activities of inmates
+inside prison and on work release; educational training such as basic
+literacy and college courses; and counseling programs such as drug and
+alcohol dependency and employment interviewing skills. It also compares
+selected findings to the 2000 Census.
